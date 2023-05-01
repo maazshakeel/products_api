@@ -55,9 +55,3 @@ Basic Laravel CRUD API application included with Authentication Module & Product
 ###### Image Upload throw Postman:
 <img src="https://i.ibb.co/VBkMBBp/Postman-Store-Product-with-File-Upload.png" alt="Postman-Store-Product-with-File-Upload" border="0">
 
-
-
-### Test
-1. Test with Postman - https://www.getpostman.com/collections/5642915d135f376b84af [Click to open with post man]
-1. Test with Swagger.
-1. Swagger Limitation: Image can not be uploaded throw Swagger, it can be uploaded throw Postman.
